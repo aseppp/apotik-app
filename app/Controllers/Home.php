@@ -2,6 +2,8 @@
 
 namespace App\Controllers;
 
+// INI CONTROLLER
+
 class Home extends BaseController
 {
     public function index()
